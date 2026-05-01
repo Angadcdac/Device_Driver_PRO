@@ -13,6 +13,7 @@ static int __init my_mod_init(void)
         pr_info("\033[1;32mThis is GREEN message\033[0m\n");
         pr_info("\033[1;33mThis is YELLOW message\033[0m\n");
 	pr_info("Enjoy this journey with the dedication\n");
+	pr_info("Your Github has been started\n");
 	return 0;
 }
 
