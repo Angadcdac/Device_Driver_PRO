@@ -1,0 +1,1 @@
+cmd_/home/angad/Desktop/Device_Driver_PRO/mod4/mod4.o := arm-linux-gnueabihf-ld -EL -z noexecstack --no-warn-rwx-segments   -r -o /home/angad/Desktop/Device_Driver_PRO/mod4/mod4.o /home/angad/Desktop/Device_Driver_PRO/mod4/mod41.o /home/angad/Desktop/Device_Driver_PRO/mod4/mod42.o

@@ -1,0 +1,18 @@
+1. Write a kernel module for creating a character device (/dev/my_char_dev) with major number 250 and minor number 0. Write code that supports open, write, read and close operations on this character device.
+
+2. Write a user space application that performs open, write, read and close operations on the character device so created above. The user space data should be written and read from an appropriate variable in kernel memory.
+
+3. Explain with examples the differences between the following types of locking mechanisms in the Linux kernel:
+
+	a. Mutex
+	b. Spinlock
+	c. RWlock
+	d. Seqlock
+
+4. Write a kernel module that taints the kernel. Explain what is a taint? How do tainted modules affect kernel behaviour? 
+
+5. Write a kernel module - user space application combination that interacts with user space in the following manner:
+
+	a. When user space writes an integer, the module adds that integer to a kernel linked list. 
+	b. When user space performs a read operation, the module returns the linked list contents to user space in addition to displaying it on dmesg.
+	c. When user space sends an IOCTL "MY_DELETE", the module removes the kernel linked list and displays messages on dmesg accodingly.

@@ -1,0 +1,1 @@
+cmd_/home/angad/Desktop/Device_Driver_PRO/mod5/Myprogram/mod51.mod := { echo  /home/angad/Desktop/Device_Driver_PRO/mod5/Myprogram/mod51.o;  echo; } > /home/angad/Desktop/Device_Driver_PRO/mod5/Myprogram/mod51.mod

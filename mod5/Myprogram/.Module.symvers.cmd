@@ -1,0 +1,1 @@
+cmd_/home/angad/Desktop/Device_Driver_PRO/mod5/Myprogram/Module.symvers := sed 's/ko$$/o/' /home/angad/Desktop/Device_Driver_PRO/mod5/Myprogram/modules.order | scripts/mod/modpost -m    -o /home/angad/Desktop/Device_Driver_PRO/mod5/Myprogram/Module.symvers -e -i Module.symvers   -T -

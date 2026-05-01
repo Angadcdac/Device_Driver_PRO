@@ -1,0 +1,1 @@
+cmd_/home/angad/Desktop/Device_Driver_PRO/mod1/mod1.ko := arm-linux-gnueabihf-ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/angad/Desktop/Device_Driver_PRO/mod1/mod1.ko /home/angad/Desktop/Device_Driver_PRO/mod1/mod1.o /home/angad/Desktop/Device_Driver_PRO/mod1/mod1.mod.o;  true

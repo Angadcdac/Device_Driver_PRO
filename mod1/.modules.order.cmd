@@ -1,0 +1,1 @@
+cmd_/home/angad/Desktop/Device_Driver_PRO/mod1/modules.order := {   echo /home/angad/Desktop/Device_Driver_PRO/mod1/mod1.ko; :; } | awk '!x[$$0]++' - > /home/angad/Desktop/Device_Driver_PRO/mod1/modules.order

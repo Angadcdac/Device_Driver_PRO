@@ -1,0 +1,1 @@
+cmd_/home/angad/Desktop/Device_Driver_PRO/mod11/mod11-2IRQ_all.ko := arm-linux-gnueabihf-ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/angad/Desktop/Device_Driver_PRO/mod11/mod11-2IRQ_all.ko /home/angad/Desktop/Device_Driver_PRO/mod11/mod11-2IRQ_all.o /home/angad/Desktop/Device_Driver_PRO/mod11/mod11-2IRQ_all.mod.o;  true

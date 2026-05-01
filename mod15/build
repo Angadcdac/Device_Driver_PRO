@@ -1,0 +1,4 @@
+#!/bin/bash
+
+KSRC=../linux
+arm-linux-gnueabi-gcc -g -ggdb3 spidev_test.c -I${KSRC} -o spidev_test

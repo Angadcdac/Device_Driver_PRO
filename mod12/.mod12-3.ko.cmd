@@ -1,0 +1,1 @@
+cmd_/home/angad/Desktop/Device_Driver_PRO/mod12/mod12-3.ko := arm-linux-gnueabihf-ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/angad/Desktop/Device_Driver_PRO/mod12/mod12-3.ko /home/angad/Desktop/Device_Driver_PRO/mod12/mod12-3.o /home/angad/Desktop/Device_Driver_PRO/mod12/mod12-3.mod.o;  true

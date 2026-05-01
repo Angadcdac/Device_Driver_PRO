@@ -1,0 +1,1 @@
+cmd_/home/desd/Documents/Pradeep/LDD_Assignment/lddQ1_cdev.mod := { echo  /home/desd/Documents/Pradeep/LDD_Assignment/lddQ1_cdev.o;  echo; } > /home/desd/Documents/Pradeep/LDD_Assignment/lddQ1_cdev.mod

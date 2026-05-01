@@ -1,0 +1,1 @@
+cmd_/home/angad/Desktop/Device_Driver_PRO/mod11/mod11-2IRQ_all.mod := { echo  /home/angad/Desktop/Device_Driver_PRO/mod11/mod11-2IRQ_all.o;  echo; } > /home/angad/Desktop/Device_Driver_PRO/mod11/mod11-2IRQ_all.mod

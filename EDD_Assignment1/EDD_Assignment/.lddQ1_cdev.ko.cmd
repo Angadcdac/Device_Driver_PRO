@@ -1,0 +1,1 @@
+cmd_/home/desd/Documents/Pradeep/LDD_Assignment/lddQ1_cdev.ko := arm-linux-gnueabihf-ld -r  -EL -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/desd/Documents/Pradeep/LDD_Assignment/lddQ1_cdev.ko /home/desd/Documents/Pradeep/LDD_Assignment/lddQ1_cdev.o /home/desd/Documents/Pradeep/LDD_Assignment/lddQ1_cdev.mod.o;  true
